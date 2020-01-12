@@ -1,0 +1,7 @@
+{
+  "name": "Hotlink to data",
+  "id": "798089197911186751",
+  "api": "1.0.0",
+  "main": "code.js",
+  "ui": "ui.html"
+}
